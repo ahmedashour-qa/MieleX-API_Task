@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://reqres.in/api/",
+    
+    "video": false,
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporter-config.json"
+    }
+}
